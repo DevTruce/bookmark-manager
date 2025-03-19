@@ -27,17 +27,10 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## Videos
+## Screenshots
 
-<video width="640" height="360" controls>
-  <source src="videos/desktop.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<video width="640" height="360" controls>
-  <source src="videos/mobile.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Bookmark Manager Desktop Screen Shot][product-screenshot]](product-link)
+[![Bookmark Manager Mobile Screen Shot][product-screenshot2]](product-link)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +70,8 @@ Discord: [xzypher.]()
 
 <!-- ## Project ## -->
 
-[product-screenshot]: images/project-view.png
+[product-screenshot]: images/desktop.gif
+[product-screenshot2]: images/mobile.gif
 [product-link]: https://devtruce.github.io/bookmark-manager/
 
 <!-- ## Tech & Tools ## -->
