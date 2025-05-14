@@ -18,7 +18,7 @@
 <h3 align="center">Bookmark Manager</h3>
 
   <p align="center">
-    completed frontend mentor challenge
+    A responsive marketing page for a bookmark manager.
     <br />
     <br />
     <a href="https://devtruce.github.io/bookmark-manager/" target="_blank">View Demo</a>
